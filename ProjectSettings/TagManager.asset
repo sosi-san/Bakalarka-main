@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayersOnline
+  - Connected
+  - Spikes
+  - Wheel
+  - WheelKillZone
+  - KillZone
+  - RoomCode
+  - Box
+  - GravityOn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - KillZone
+  - Wheels
+  - Players
+  - WheelKillZone
+  - WheelSpikes
+  - Buttons
+  - Selectable
+  - Projectiles
+  - GravityOn
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 2609943521
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3613688871
+    locked: 0
